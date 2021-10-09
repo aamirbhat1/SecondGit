@@ -1,4 +1,7 @@
 
 public class main {
-//jgfdhgjk
+
+	public main() {
+		System.out.println("hello");
+	}
 }
